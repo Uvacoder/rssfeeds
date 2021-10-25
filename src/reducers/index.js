@@ -13,6 +13,7 @@ const initialState = {
       url: "https://medium.com/feed/towards-data-science",
     },
     { name: "The-Economist", url: "https://medium.com/feed/the-economist" },
+    { name: "CSS-irl", url: "https://css-irl.info/rss.xml" },
   ],
   currentItem: {},
 };
